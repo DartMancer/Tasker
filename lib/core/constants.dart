@@ -1,0 +1,9 @@
+const fontApp = "Montserrat";
+const String categoriesBox = 'categoryHiveBox';
+const String tasksBox = 'taskHiveBox';
+const String tagsBox = 'tagHiveBox';
+const String categoryPreference = 'category_counter';
+const String tasksPreference = 'tasks_counter';
+const String tagsPreference = 'tags_counter';
+const String lowPriorityTag = 'lowTag';
+const String highPriorityTag = 'highTag';
